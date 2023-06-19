@@ -1,13 +1,17 @@
+class A:
+    foo = ""
+    bar = ""
+
 def sumar(a, b):
-    // devuelve la suma
+    # devuelve la suma
     return 0
 
 def restar(a, b):
-    // devuelve la resta
+    # devuelve la resta
     return 0
 
 def multiplicar(a, b):
-    // devuelve la multiplicacion
+    # devuelve la multiplicacion
     return 0
 
 while True:
