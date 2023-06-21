@@ -2,6 +2,12 @@ class A:
     foo = ""
     bar = ""
 
+class B:
+    atribB= ""
+    
+class C:
+    atribC = ""
+    
 def sumar(a, b):
     # devuelve la suma
     return 0
